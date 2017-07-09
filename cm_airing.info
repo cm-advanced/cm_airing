@@ -14,7 +14,7 @@ files[] = "cm_airing.controller.inc"
 
 configure = admin/structure/cm-airing/manage/fields
 
-version = "7.x-4.1"
+version = "7.x-4.2"
 core = "7.x"
 project = "cm_airing"
 project_status_url = https://github.com/cm-advanced/cm_airing
